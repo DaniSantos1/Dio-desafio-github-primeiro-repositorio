@@ -1,0 +1,24 @@
+##	Prof. Juliana 
+
+######		Topics Aula 
+
+
+
+* Modelo Base
+
+* Estrutura Invariante
+
+* Repetições 		
+
+
+
+Anotações 
+
+Porque determinar padrões? Generalizar com objetivo de obter resoluções para problemas diferentes. :smile:
+
+* Classes
+* Categorias
+
+Como o computador reconhece padrões? Por Padrão :facepunch:	
+
+​				

@@ -1,0 +1,24 @@
+##		Comandos Úteis
+
+
+
+* LS  ------------------------------------------------ Listar
+* CD + (nome da pasta)--------------------- Entrar na pasta
+* CTRL + L --------------------------------------- Limpar
+* Mkdir + nome do arquivo ---------------Estou dentro de uma pasta e quero criar outa 
+
+
+
+###		Para Rodar o GIT
+
+* Git int
+
+* Is -a -----------------------------------------------(mostrar arquivo oculto)
+
+* cd .. -----------------------------------------------Volta um nivel 
+
+* Git add -------------------------------------------Add pasta
+
+* Git commit -m "nome da pasta"
+
+  
